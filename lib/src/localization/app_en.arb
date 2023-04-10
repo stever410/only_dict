@@ -1,0 +1,6 @@
+{
+  "appTitle": "only_dict",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
