@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                       return const WordDetailsScreen();
                     case HomeScreen.routeName:
                     default:
-                      return const HomeScreen();
+                      return HomeScreen();
                   }
                 },
               );

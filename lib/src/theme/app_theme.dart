@@ -5,6 +5,7 @@ class AppTheme {
     scaffoldBackgroundColor: Colors.grey.shade900,
     colorScheme: const ColorScheme.dark(),
     primaryColor: Colors.black,
+    primarySwatch: Colors.grey,
     appBarTheme: const AppBarTheme(
       backgroundColor: Colors.transparent,
       foregroundColor: Colors.white,
@@ -16,6 +17,7 @@ class AppTheme {
     scaffoldBackgroundColor: Colors.white,
     colorScheme: const ColorScheme.light(),
     primaryColor: Colors.white,
+    primarySwatch: Colors.grey,
     appBarTheme: AppBarTheme(
       backgroundColor: Colors.transparent,
       foregroundColor: Colors.grey.shade900,
